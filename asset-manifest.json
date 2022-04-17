@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/3d-heart/static/css/main.6ba0c2b8.css",
+    "main.js": "/3d-heart/static/js/main.71d2fb9f.js",
+    "index.html": "/3d-heart/index.html",
+    "main.6ba0c2b8.css.map": "/3d-heart/static/css/main.6ba0c2b8.css.map",
+    "main.71d2fb9f.js.map": "/3d-heart/static/js/main.71d2fb9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba0c2b8.css",
+    "static/js/main.71d2fb9f.js"
+  ]
+}
